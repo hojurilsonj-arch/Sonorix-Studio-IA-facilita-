@@ -1,0 +1,6 @@
+{
+  "name": "Sonorix",
+  "description": "Estúdio de música móvel com separação de stems por IA, gerador de instrumentais e distribuição digital.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
